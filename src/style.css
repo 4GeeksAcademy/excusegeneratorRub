@@ -2,4 +2,9 @@
 
 body{
     background: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 400px;
 }
+
